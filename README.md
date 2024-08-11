@@ -6,4 +6,4 @@ Graphs used - Bar Graph, Tree Map, Bubble Chart, Doughnut Chart, Area Chart, But
 
 
 
-Outcome - the outcome of these graphs and dashboard its easy-to-understand price of each car and height, length, width, highway – mpg of each car its easy to understand by graphical representation Toyota car has more price, height, length, highway-mpg compare to all cars.
+Outcome - the outcome of these graphs and dashboard is identified price, height, weight, highway mpg trends and patterns of each car category and its easy-to-understand price of each car and height, length, width, highway – mpg of each car its easy to understand by graphical representation Toyota car has more price, height, length, highway-mpg compare to all cars.
